@@ -16,8 +16,6 @@ const initialBookmark = [{ name: 'Quote Generator', url: 'https://waelhsen1995.g
     { name: 'Music Player', url: 'https://waelhsen1995.github.io/webDev/MusicPlayer/' },
     { name: 'Custom Count Down', url: 'https://waelhsen1995.github.io/webDev/Countdown/' },
     { name: 'Book Keeper', url: 'https://waelhsen1995.github.io/webDev/BookKeeper/' },
-    Countdown
-
 ];
 let bookmarks = [];
 
